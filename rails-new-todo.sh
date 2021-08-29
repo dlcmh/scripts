@@ -1,1 +1,2 @@
-ls -al
+rails new rails-todo
+cd rails-todo
